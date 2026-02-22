@@ -53,7 +53,7 @@ A evasão impacta diretamente na receita e na fidelização, sendo essencial ide
 ## 🚀 Acesse o Notebook no Google Colab
 Clique no link abaixo para abrir e executar o notebook diretamente no Google Colab:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/angelica-cyber/Desafio_TelecomX_BR/blob/main/telecomx_churn.ipynb)
+[![Abrir no Colab](Cópia_de_Desafio_TelecomX_BR.ipynb)
 
 ---
 
