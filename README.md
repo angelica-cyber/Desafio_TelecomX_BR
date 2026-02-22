@@ -1,5 +1,5 @@
-# Desafio_TelecomX_BR
 
+```markdown
 # 📊 Desafio TelecomX – Análise de Evasão de Clientes (Churn)
 
 ## 1. Introdução
@@ -50,13 +50,20 @@ A evasão impacta diretamente na receita e na fidelização, sendo essencial ide
 
 ---
 
-### 📂 Estrutura do Repositório
-- `telecomx_churn.ipynb` → notebook com toda a análise.  
-- `data/` → dados brutos ou tratados (se permitido compartilhar).  
-- `images/` → gráficos exportados para ilustrar o relatório.  
-- `README.md` → resumo do projeto (este arquivo).  
+## 🚀 Acesse o Notebook no Google Colab
+Clique no link abaixo para abrir e executar o notebook diretamente no Google Colab:
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/angelica-cyber/Desafio_TelecomX_BR/blob/main/telecomx_churn.ipynb)
 
 ---
 
-👩‍💻 Desenvolvido por Maria no desafio **TelecomX BR**
+### 📂 Estrutura do Repositório
+- `Desafio TelecomX BR.ipynb` → notebook com toda a análise. 
+
+-`README.md` → resumo do projeto (este arquivo).  
+
+---
+
+👩‍💻 Desenvolvido por Maria no desafio **TelecomX BR**.
+
 
